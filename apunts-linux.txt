@@ -20,3 +20,4 @@ COMANDES BÀSIQUES:
 - mv: moure/renombrar fitxers
 - rm: eliminar fitxers
 
+(soy un edit de la practica de github)
