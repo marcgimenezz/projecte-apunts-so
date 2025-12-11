@@ -7,7 +7,7 @@ Aquest repositori conté l’essència dels sistemes Operatius de 1r ASIX
 - Tema 1: Introducció a Linux 
 - Tema 2: Comandes bàsiques 
 
-## Autor [El teu nom] 
+## Autor [Marc Giménez Morales] 
 Curs: 1r ASIX 
-Data: [Data actual]
+Data: [11/12/2025]
 
