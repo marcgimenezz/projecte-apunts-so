@@ -1,13 +1,2 @@
 # Els meus apunts de Sistemes Operatius - <Marc Giménez>
 
-## Descripció 
-Aquest repositori conté l’essència dels sistemes Operatius de 1r ASIX
-
-## Contingut 
-- Tema 1: Introducció a Linux 
-- Tema 2: Comandes bàsiques 
-
-## Autor [Marc Giménez Morales] 
-Curs: 1r ASIX 
-Data: [11/12/2025]
-
